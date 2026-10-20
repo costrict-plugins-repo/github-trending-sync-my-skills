@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "sync-my-skills",
+  "description": "Sync Claude Code skills across multiple machines using GitHub",
+  "owner": {
+    "name": "kunsanglee"
+  },
+  "plugins": [
+    {
+      "name": "sync-my-skills",
+      "description": "Sync and manage Claude Code skills across multiple machines using a private GitHub repo. Push, pull, and list your skills with simple commands.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/kunsanglee/sync-my-skills"
+    }
+  ]
+}

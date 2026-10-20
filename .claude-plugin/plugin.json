@@ -1,0 +1,9 @@
+{
+  "name": "sync-my-skills",
+  "description": "Sync Claude Code skills across multiple machines using GitHub. Push, pull, and manage your personal skills with a private GitHub repo.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kunsanglee",
+    "email": "kunsanglee@gmail.com"
+  }
+}
